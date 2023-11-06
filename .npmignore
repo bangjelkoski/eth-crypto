@@ -6,6 +6,7 @@
 .travis.yml
 package-lock.json
 gen/
+src/
 scripts/
 test_tmp/
 perf.txt

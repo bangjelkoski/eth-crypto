@@ -1,5 +1,5 @@
 {
-  "name": "eth-crypto",
+  "name": "@bangjelkoski/eth-crypto",
   "version": "2.6.0",
   "description": "Cryptographic functions for ethereum and how to use them with web3 and solidity",
   "keywords": [
@@ -100,7 +100,7 @@
     "@babel/runtime": "7.23.2",
     "@ethereumjs/tx": "3.5.2",
     "@types/bn.js": "5.1.4",
-    "eccrypto": "1.1.6",
+    "@toruslabs/eccrypto": "1.1.8",
     "ethereumjs-util": "7.1.5",
     "ethers": "5.7.2",
     "secp256k1": "5.0.0"
